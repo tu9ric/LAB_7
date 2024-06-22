@@ -1,0 +1,4 @@
+# ninja log v5
+3	526	7407283299929625	CMakeFiles/assert.dir/main.cpp.obj	7c4872c27ece56e6
+8	999	7407283304623414	CMakeFiles/assert.dir/example.cpp.obj	b3ab7157742ad86a
+999	1222	7407283306853845	assert.exe	3abbfcabceace32e

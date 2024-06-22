@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_1.dir\\test_1.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\test_1.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\test_1.cpp",
+  "output": "tests\\CMakeFiles\\test_1.dir\\test_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_1.dir\\__\\example.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\example.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\example.cpp",
+  "output": "tests\\CMakeFiles\\test_1.dir\\__\\example.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_2.dir\\test_2.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\test_2.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\test_2.cpp",
+  "output": "tests\\CMakeFiles\\test_2.dir\\test_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_2.dir\\__\\example.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\example.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\example.cpp",
+  "output": "tests\\CMakeFiles\\test_2.dir\\__\\example.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_3.dir\\test_3.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\test_3.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\test_3.cpp",
+  "output": "tests\\CMakeFiles\\test_3.dir\\test_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_3.dir\\__\\example.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\example.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\example.cpp",
+  "output": "tests\\CMakeFiles\\test_3.dir\\__\\example.cpp.obj"
+}
+]

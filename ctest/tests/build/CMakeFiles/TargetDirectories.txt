@@ -1,0 +1,2 @@
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/tests/build/CMakeFiles/edit_cache.dir
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/tests/build/CMakeFiles/rebuild_cache.dir

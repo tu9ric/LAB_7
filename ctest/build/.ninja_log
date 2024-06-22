@@ -1,0 +1,11 @@
+# ninja log v5
+2	34	0	C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/build/CMakeFiles/cmake.verify_globs	e4e563ba66565df
+57	165	7407293979781511	tests/CMakeFiles/test_3.dir/test_3.cpp.obj	f5e79a31a8744009
+42	174	7407293979838473	tests/CMakeFiles/test_1.dir/test_1.cpp.obj	48840b9b0438628
+50	175	7407293979838473	tests/CMakeFiles/test_2.dir/test_2.cpp.obj	2a0780ba0286ab21
+61	429	7407293982447156	tests/CMakeFiles/test_3.dir/__/example.cpp.obj	28184336752763b3
+47	438	7407293982450315	tests/CMakeFiles/test_1.dir/__/example.cpp.obj	34d4b3c035687226
+54	447	7407293982455052	tests/CMakeFiles/test_2.dir/__/example.cpp.obj	c64ec0ad4424cd70
+439	600	7407293984064960	tests/test_1.exe	a7746b1537cb14d
+454	603	7407293984064960	tests/test_2.exe	1c9a1c59bfd24106
+430	605	7407293984064960	tests/test_3.exe	512836007f27f6ca

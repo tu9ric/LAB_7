@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/assert/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\assert.dir\\main.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\assert\\main.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\assert\\main.cpp",
+  "output": "CMakeFiles\\assert.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/assert/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\assert.dir\\example.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\assert\\example.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\assert\\example.cpp",
+  "output": "CMakeFiles\\assert.dir\\example.cpp.obj"
+}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_7_UPD/ctest/tests/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\ctests2.dir\\main.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\main.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_7_UPD\\ctest\\tests\\main.cpp",
+  "output": "CMakeFiles\\ctests2.dir\\main.cpp.obj"
+}
+]
